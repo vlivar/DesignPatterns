@@ -1,0 +1,3 @@
+﻿using Domain;
+
+Interpreter.Start();
